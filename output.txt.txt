@@ -1,0 +1,4 @@
+Superhero name is: Batman
+Superhero name is: Superman
+Superhero name is: Wonderwoman
+Superhero name is: Green Lantern
