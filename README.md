@@ -1,7 +1,7 @@
 
 # Collection of bash scripts focused on Unix Sys Admin.
 ## bash_scripting_for_sys_admin
-** To be used as a reference library for most common concepts and operations
+ _To be used as a reference library for most common concepts and operations_
 
 * All scripts have internal readme lines summarizing their functions
 * File <b>script_listing</b> was generated using script <b><i>makedoc.sh</i></b>, which summarizes/utilizes most of the concepts tackled by these scripts
